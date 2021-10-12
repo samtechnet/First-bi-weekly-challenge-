@@ -1,0 +1,52 @@
+*{
+    
+    margin: 0 auto;
+    padding: 0;
+    width: auto;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    vertical-align: baseline;
+    lay
+    display: flex: ;
+    
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    
+}
+img {
+    
+}
+
+.logo1 {
+    width: 230px;
+    margin: 20px;
+}
+
+p, h3{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+
+button{
+    background-color: #fa0;
+    padding: 1rem;
+    margin: 2rem;
+    text-decoration: #FFFFFF;
+    border-radius: 4px;
+    display: inline-block;
+    opacity: 0.8;
+
+
+}
+.button-wrapper{
+    background-color: red;
+    color: #FFFFFF;
+}
+
